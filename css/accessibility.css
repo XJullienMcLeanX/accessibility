@@ -1,0 +1,35 @@
+/*
+ Filename: accessibility.html
+ Written by: Jullien McLean (JLJM)
+ Purpose: Using css techniques to make this lab more accessible
+ Date: 11 May, 2020
+ Modification History: 11 May, 2020
+ Original Build
+*/
+
+#badColorOne {
+	color: blue;
+	background-color: #ffc634;
+}
+
+#badColorTwo {
+	color: green;
+	background-color: #32CD32;
+}
+
+#badColorThree {
+	color: #FFDEAD;
+}
+
+#goodFontTwo {
+	font-style: italic;
+}
+
+#badFontOne {
+	font-size: 8px;
+}
+
+#badFontTwo {
+	font: mistral;
+	font-size: 288px;
+}
